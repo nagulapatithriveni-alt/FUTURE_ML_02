@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (optional: comment out if you WANT to push the CSV)
+# data/support_tickets.csv
+
+# Models (large binary files — uncomment to exclude)
+# models/*.pkl
+
+# Outputs (charts — uncomment to exclude)
+# outputs/*.png

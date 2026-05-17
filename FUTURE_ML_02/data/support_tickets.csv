@@ -1,0 +1,306 @@
+ticket_text,category,priority
+How do I delete my account permanently? I want all my data removed.,Account Access,Low
+"Good morning, All my saved data has disappeared after I logged in today. Everything is gone. This is my second time contacting support.",Account Access,High
+"Dear support, When does my current billing cycle end? I can't find this info in my dashboard. I have been a customer for 3 years. Please help.",Billing,Low
+"Good morning, What are the differences between the Basic, Pro, and Enterprise plans? This is my second time contacting support. Urgent!",General Inquiry,Low
+The loading spinner disappears too quickly before content finishes loading.,Technical Issue,Low
+"Hi there, The website is down and I cannot access any of my data. This is urgent for my business. Thank you.",Technical Issue,High
+"Dear support, Is there a student discount available for the premium plan? Thank you.",Billing,Low
+I forgot my email address associated with the account. How do I recover it? I already tried the FAQ. This is very important to me.,Account Access,Medium
+How do I enable two-factor authentication on my account for better security? This is my second time contacting support. This is very important to me.,Account Access,Medium
+The system is extremely slow today. Every action takes several minutes. This is my second time contacting support. This is very important to me.,Technical Issue,Medium
+The website is down and I cannot access any of my data. This is urgent for my business.,Technical Issue,High
+"Dear support, My invoice shows tax charges I don't think I should be paying. Can you explain? I already tried the FAQ. Looking forward to your response.",Billing,Medium
+Dark mode toggle does not save my preference. Resets every time I reload.,Technical Issue,Medium
+"Dear support, Can I merge two accounts I accidentally created with different emails? This is my second time contacting support. Thank you.",Account Access,Medium
+"Good morning, Is there a student discount available for the premium plan? Urgent!",Billing,Low
+"Good morning, Dark mode toggle does not save my preference. Resets every time I reload. This is my second time contacting support. Thank you.",Technical Issue,Medium
+What payment methods do you accept? Does the platform support PayPal?,Billing,Low
+"Hello, How do I change the language preference on my account? I already tried the FAQ. Thank you.",Account Access,Low
+What is your refund policy for annual subscriptions?,Refund Request,Low
+"Good morning, My account has been suspended without any reason or prior notice. This is my second time contacting support. Urgent!",Account Access,High
+The features promised at signup are not available. I want a partial refund. Looking forward to your response.,Refund Request,Medium
+"Dear support, What are your customer support hours and how can I reach a live agent? This is my second time contacting support. Please help.",General Inquiry,Low
+"Dear support, What is your refund policy for annual subscriptions? This is my second time contacting support. Urgent!",Refund Request,Low
+Cannot connect to the API. Getting timeout errors on every single request.,Technical Issue,High
+"To whom it may concern, Two-factor authentication is not sending codes to my phone. I cannot log in. I already tried the FAQ. This is very important to me.",Account Access,High
+"Hi there, I cancelled within the 30-day trial but was charged anyway. Please refund. I have been a customer for 3 years. Urgent!",Refund Request,Medium
+Can I export my data to CSV or Excel format?,General Inquiry,Low
+"To whom it may concern, I was charged twice for the same subscription this month. Please refund immediately. I have been a customer for 3 years. Please help.",Billing,High
+I'd like a pro-rated refund since I'm cancelling halfway through the billing period. I have been a customer for 3 years. Please help.,Refund Request,Medium
+"Dear support, I need a copy of all my invoices from last year for accounting purposes. This is my second time contacting support. Please help.",Billing,Medium
+My account has been suspended without any reason or prior notice.,Account Access,High
+"Hi there, Can multiple team members share one account, or do we each need our own?",General Inquiry,Medium
+"Hi there, The service was down for 3 days and I want compensation for the downtime I experienced. This is my second time contacting support. Looking forward to your response.",Refund Request,High
+"To whom it may concern, The search feature is returning wrong results. It shows unrelated items. I already tried the FAQ. Thank you.",Technical Issue,Medium
+"Good morning, My account dashboard is completely broken. All features are unresponsive. I already tried the FAQ. Please help.",Technical Issue,High
+"Hello, Do you have a mobile app for Android and iOS? I have been a customer for 3 years. Thank you.",General Inquiry,Low
+"To whom it may concern, My credit card was charged without my authorization. This is fraudulent! This is my second time contacting support. Thank you.",Billing,High
+My payment failed but money was deducted from my account. Please investigate.,Billing,High
+The mobile app crashes immediately on launch on iOS 17. Other apps work fine. This is my second time contacting support. Urgent!,Technical Issue,High
+"Good morning, There is a small typo on the settings page under the 'Privacy' section. I have been a customer for 3 years.",Technical Issue,Low
+"Hello, My payment failed but money was deducted from my account. Please investigate. I have been a customer for 3 years. Urgent!",Billing,High
+My credit card was charged without my authorization. This is fraudulent! This is very important to me.,Billing,High
+"To whom it may concern, I accidentally purchased the wrong plan and need the difference refunded urgently. I already tried the FAQ. Looking forward to your response.",Refund Request,High
+"Dear support, Is there a student discount available for the premium plan? I have been a customer for 3 years. Thank you.",Billing,Low
+"Hello, The website is down and I cannot access any of my data. This is urgent for my business. This is my second time contacting support. Thank you.",Technical Issue,High
+"Good morning, Can multiple team members share one account, or do we each need our own? I have been a customer for 3 years. This is very important to me.",General Inquiry,Medium
+"Hi there, Do you have a mobile app for Android and iOS? This is my second time contacting support. Thank you.",General Inquiry,Low
+"Hi there, My credit card was charged without my authorization. This is fraudulent! I already tried the FAQ. This is very important to me.",Billing,High
+"To whom it may concern, We are a school. Do you offer any educational institution discounts? This is my second time contacting support. Please help.",General Inquiry,Low
+"Dear support, I'd like a pro-rated refund since I'm cancelling halfway through the billing period. This is my second time contacting support. Thank you.",Refund Request,Medium
+"Dear support, Does your platform integrate with Slack and Microsoft Teams? Urgent!",General Inquiry,Low
+"Hello, Can I export my data to CSV or Excel format? This is my second time contacting support. Looking forward to your response.",General Inquiry,Low
+"Hello, The loading spinner disappears too quickly before content finishes loading. I already tried the FAQ. This is very important to me.",Technical Issue,Low
+"Good morning, I cancelled my plan but was still billed for the next cycle. This is unacceptable.",Billing,High
+"Can multiple team members share one account, or do we each need our own?",General Inquiry,Medium
+"To whom it may concern, How long does the refund process usually take once approved? This is very important to me.",Refund Request,Low
+"Dear support, I requested a refund two weeks ago and still haven't received it. What is happening?",Refund Request,High
+"Dear support, My invoice shows tax charges I don't think I should be paying. Can you explain? I already tried the FAQ. Please help.",Billing,Medium
+"Dear support, What uptime SLA do you guarantee for enterprise customers? Please help.",General Inquiry,Medium
+"To whom it may concern, How do I change the language preference on my account? I already tried the FAQ. Please help.",Account Access,Low
+I'd like to download a copy of all my account data as required by GDPR.,Account Access,Low
+"Hi there, Is there an API available for custom integrations with our internal tools? I have been a customer for 3 years.",General Inquiry,Low
+I accidentally purchased the wrong plan and need the difference refunded urgently.,Refund Request,High
+I want a full refund immediately. The product is completely unusable for my needs. I already tried the FAQ. Looking forward to your response.,Refund Request,High
+My credit card was charged without my authorization. This is fraudulent!,Billing,High
+"Hi there, Can I merge two accounts I accidentally created with different emails? This is my second time contacting support. Looking forward to your response.",Account Access,Medium
+"To whom it may concern, There is a small typo on the settings page under the 'Privacy' section. I already tried the FAQ.",Technical Issue,Low
+"Hello, My payment failed but money was deducted from my account. Please investigate. This is my second time contacting support. Urgent!",Billing,High
+"Dear support, The website is down and I cannot access any of my data. This is urgent for my business. I have been a customer for 3 years. Please help.",Technical Issue,High
+"Hello, Can I merge two accounts I accidentally created with different emails? This is my second time contacting support.",Account Access,Medium
+The system is extremely slow today. Every action takes several minutes.,Technical Issue,Medium
+"To whom it may concern, The mobile app crashes immediately on launch on iOS 17. Other apps work fine. I already tried the FAQ. This is very important to me.",Technical Issue,High
+"Good morning, Can I export my data to CSV or Excel format? I already tried the FAQ. Looking forward to your response.",General Inquiry,Low
+"Dear support, There is a small typo on the settings page under the 'Privacy' section. This is very important to me.",Technical Issue,Low
+"Good morning, What are your customer support hours and how can I reach a live agent? Urgent!",General Inquiry,Low
+"Dear support, When does my current billing cycle end? I can't find this info in my dashboard. Thank you.",Billing,Low
+"To whom it may concern, I am locked out of my account and cannot reset my password. The email never arrives. I have been a customer for 3 years. This is very important to me.",Account Access,High
+"To whom it may concern, How long does the refund process usually take once approved? This is my second time contacting support. Please help.",Refund Request,Low
+"To whom it may concern, I want a full refund immediately. The product is completely unusable for my needs. I have been a customer for 3 years. Looking forward to your response.",Refund Request,High
+"Dear support, I was charged for an annual plan by mistake and need a full refund right away. I have been a customer for 3 years.",Refund Request,High
+How do I enable two-factor authentication on my account for better security?,Account Access,Medium
+Does your platform integrate with Slack and Microsoft Teams?,General Inquiry,Low
+"To whom it may concern, I cancelled my plan but was still billed for the next cycle. This is unacceptable. Please help.",Billing,High
+"Good morning, Dropdown menu on mobile has a slight alignment issue. This is my second time contacting support. Thank you.",Technical Issue,Low
+"Hi there, When does my current billing cycle end? I can't find this info in my dashboard. This is my second time contacting support. Looking forward to your response.",Billing,Low
+"Hello, How do I enable two-factor authentication on my account for better security? I already tried the FAQ. This is very important to me.",Account Access,Medium
+"Good morning, Two-factor authentication is not sending codes to my phone. I cannot log in. This is my second time contacting support. Looking forward to your response.",Account Access,High
+"Hello, My account dashboard is completely broken. All features are unresponsive. Please help.",Technical Issue,High
+"Hello, My account has been suspended without any reason or prior notice. This is my second time contacting support. Urgent!",Account Access,High
+"To whom it may concern, My credit card was charged without my authorization. This is fraudulent! Thank you.",Billing,High
+"Hi there, Does your platform integrate with Slack and Microsoft Teams?",General Inquiry,Low
+"To whom it may concern, Can I switch from monthly to annual billing to save money? This is very important to me.",Billing,Low
+"Hi there, I was charged twice for the same subscription this month. Please refund immediately. I have been a customer for 3 years. Thank you.",Billing,High
+My account dashboard is completely broken. All features are unresponsive.,Technical Issue,High
+I'm getting a 500 internal server error on every page. Nothing loads at all.,Technical Issue,High
+I want to change my username but the option seems greyed out in settings. This is very important to me.,Account Access,Medium
+"Hi there, I cancelled within the 30-day trial but was charged anyway. Please refund. This is my second time contacting support. Please help.",Refund Request,Medium
+"To whom it may concern, I want to upgrade my plan. Can you tell me what the pricing options are? Thank you.",Billing,Medium
+"To whom it may concern, Dropdown menu on mobile has a slight alignment issue. I have been a customer for 3 years. This is very important to me.",Technical Issue,Low
+I'd like a pro-rated refund since I'm cancelling halfway through the billing period.,Refund Request,Medium
+Some images are not loading on the product page. The layout looks broken. This is my second time contacting support.,Technical Issue,Medium
+"Dear support, My account dashboard is completely broken. All features are unresponsive. I have been a customer for 3 years. Urgent!",Technical Issue,High
+"To whom it may concern, What payment methods do you accept? Does the platform support PayPal? This is my second time contacting support. Please help.",Billing,Low
+"Hello, All my saved data has disappeared after I logged in today. Everything is gone. I have been a customer for 3 years.",Account Access,High
+Is there an API available for custom integrations with our internal tools?,General Inquiry,Low
+"Good morning, Dropdown menu on mobile has a slight alignment issue. This is my second time contacting support. This is very important to me.",Technical Issue,Low
+"Dear support, I need a copy of all my invoices from last year for accounting purposes. This is my second time contacting support. Urgent!",Billing,Medium
+"Good morning, Dropdown menu on mobile has a slight alignment issue. Please help.",Technical Issue,Low
+The system is extremely slow today. Every action takes several minutes. I already tried the FAQ.,Technical Issue,Medium
+"Good morning, Can I merge two accounts I accidentally created with different emails?",Account Access,Medium
+I forgot my email address associated with the account. How do I recover it?,Account Access,Medium
+"Dear support, I'd like a pro-rated refund since I'm cancelling halfway through the billing period. This is my second time contacting support. Thank you.",Refund Request,Medium
+"To whom it may concern, How is my data backed up and how often? I have been a customer for 3 years. This is very important to me.",General Inquiry,Medium
+My account dashboard is completely broken. All features are unresponsive. This is very important to me.,Technical Issue,High
+"Good morning, I'd like to download a copy of all my account data as required by GDPR. This is my second time contacting support. Thank you.",Account Access,Low
+"To whom it may concern, I want to upgrade my plan. Can you tell me what the pricing options are? This is my second time contacting support.",Billing,Medium
+"Good morning, Someone else is logged into my account. I think I've been hacked. Thank you.",Account Access,High
+"Hello, We are a school. Do you offer any educational institution discounts? I already tried the FAQ. This is very important to me.",General Inquiry,Low
+"Hi there, I am being charged the wrong amount. The price on my invoice doesn't match what was advertised. This is my second time contacting support. Please help.",Billing,High
+"To whom it may concern, Does your platform integrate with Slack and Microsoft Teams? Looking forward to your response.",General Inquiry,Low
+"To whom it may concern, How do I change the language preference on my account? I already tried the FAQ. Please help.",Account Access,Low
+I'd like a pro-rated refund since I'm cancelling halfway through the billing period. Please help.,Refund Request,Medium
+"Dear support, Can I export my data to CSV or Excel format? Please help.",General Inquiry,Low
+We are a school. Do you offer any educational institution discounts? This is my second time contacting support. Please help.,General Inquiry,Low
+"Good morning, Someone else is logged into my account. I think I've been hacked. I have been a customer for 3 years. Please help.",Account Access,High
+"Dear support, Do you have a mobile app for Android and iOS? I have been a customer for 3 years. This is very important to me.",General Inquiry,Low
+There is a small typo on the settings page under the 'Privacy' section.,Technical Issue,Low
+"Good morning, I need to update the email address on my account to a new one. I have been a customer for 3 years. Urgent!",Account Access,Medium
+"Dear support, How long does the refund process usually take once approved? This is my second time contacting support. Looking forward to your response.",Refund Request,Low
+I need to update the email address on my account to a new one.,Account Access,Medium
+"What are the differences between the Basic, Pro, and Enterprise plans?",General Inquiry,Low
+"Hi there, What payment methods do you accept? Does the platform support PayPal? Please help.",Billing,Low
+"Good morning, Some images are not loading on the product page. The layout looks broken. I have been a customer for 3 years. Thank you.",Technical Issue,Medium
+"To whom it may concern, I was charged for an annual plan by mistake and need a full refund right away. This is my second time contacting support. Urgent!",Refund Request,High
+What uptime SLA do you guarantee for enterprise customers?,General Inquiry,Medium
+"Hi there, How do I delete my account permanently? I want all my data removed. Urgent!",Account Access,Low
+When does my current billing cycle end? I can't find this info in my dashboard. I have been a customer for 3 years. Please help.,Billing,Low
+"Hi there, I need to update the email address on my account to a new one. This is my second time contacting support.",Account Access,Medium
+"Dear support, Is there a student discount available for the premium plan? I have been a customer for 3 years. Looking forward to your response.",Billing,Low
+"Hi there, Do you have a mobile app for Android and iOS? I have been a customer for 3 years. This is very important to me.",General Inquiry,Low
+"To whom it may concern, Can multiple team members share one account, or do we each need our own? I have been a customer for 3 years. Thank you.",General Inquiry,Medium
+"Good morning, Can multiple team members share one account, or do we each need our own? I already tried the FAQ. Thank you.",General Inquiry,Medium
+How do I delete my account permanently? I want all my data removed. This is my second time contacting support. Urgent!,Account Access,Low
+"Hello, How do I delete my account permanently? I want all my data removed. Thank you.",Account Access,Low
+My application keeps crashing every time I try to open it. I've reinstalled it three times. I already tried the FAQ. Thank you.,Technical Issue,High
+Is there a student discount available for the premium plan?,Billing,Low
+Two-factor authentication is not sending codes to my phone. I cannot log in. I have been a customer for 3 years.,Account Access,High
+"Hi there, How do I delete my account permanently? I want all my data removed. I have been a customer for 3 years. Looking forward to your response.",Account Access,Low
+Can I switch from monthly to annual billing to save money?,Billing,Low
+"Dear support, The features promised at signup are not available. I want a partial refund. This is my second time contacting support.",Refund Request,Medium
+"Hi there, Do you offer a free trial before I commit to a paid plan? Thank you.",General Inquiry,Low
+"To whom it may concern, What payment methods do you accept? Does the platform support PayPal? I have been a customer for 3 years. Thank you.",Billing,Low
+I was charged twice for the same subscription this month. Please refund immediately. Please help.,Billing,High
+"Good morning, Cannot connect to the API. Getting timeout errors on every single request. I already tried the FAQ. Thank you.",Technical Issue,High
+I cancelled my plan but was still billed for the next cycle. This is unacceptable. I already tried the FAQ. Looking forward to your response.,Billing,High
+"Hello, What are the differences between the Basic, Pro, and Enterprise plans? This is my second time contacting support. Thank you.",General Inquiry,Low
+"To whom it may concern, I need a copy of all my invoices from last year for accounting purposes. Thank you.",Billing,Medium
+"Dear support, I forgot my email address associated with the account. How do I recover it? I already tried the FAQ. Please help.",Account Access,Medium
+I want to change my username but the option seems greyed out in settings. This is very important to me.,Account Access,Medium
+"Hello, I am locked out of my account and cannot reset my password. The email never arrives.",Account Access,High
+I want a full refund immediately. The product is completely unusable for my needs.,Refund Request,High
+"To whom it may concern, I cancelled within the 30-day trial but was charged anyway. Please refund. I already tried the FAQ. Please help.",Refund Request,Medium
+Dropdown menu on mobile has a slight alignment issue.,Technical Issue,Low
+"Good morning, I was charged for an annual plan by mistake and need a full refund right away. I already tried the FAQ.",Refund Request,High
+I am being charged the wrong amount. The price on my invoice doesn't match what was advertised.,Billing,High
+"Hi there, I requested a refund two weeks ago and still haven't received it. What is happening?",Refund Request,High
+"Hello, I forgot my email address associated with the account. How do I recover it? Urgent!",Account Access,Medium
+"Hi there, I'm getting a 500 internal server error on every page. Nothing loads at all. Urgent!",Technical Issue,High
+Some images are not loading on the product page. The layout looks broken.,Technical Issue,Medium
+Cannot connect to the API. Getting timeout errors on every single request. I already tried the FAQ. Thank you.,Technical Issue,High
+"To whom it may concern, My account has been suspended without any reason or prior notice. This is my second time contacting support. This is very important to me.",Account Access,High
+"Hello, I want a full refund immediately. The product is completely unusable for my needs. Urgent!",Refund Request,High
+"To whom it may concern, I am locked out of my account and cannot reset my password. The email never arrives. This is my second time contacting support. This is very important to me.",Account Access,High
+Can I merge two accounts I accidentally created with different emails?,Account Access,Medium
+"Hi there, The notification emails have a broken image at the top. Minor but looks unprofessional. Please help.",Technical Issue,Low
+I want to upgrade my plan. Can you tell me what the pricing options are?,Billing,Medium
+How long does the refund process usually take once approved? I already tried the FAQ. Looking forward to your response.,Refund Request,Low
+"Hello, The features promised at signup are not available. I want a partial refund. This is my second time contacting support. Looking forward to your response.",Refund Request,Medium
+"Good morning, The search feature is returning wrong results. It shows unrelated items. I have been a customer for 3 years. Thank you.",Technical Issue,Medium
+"Hi there, I am being charged the wrong amount. The price on my invoice doesn't match what was advertised. I have been a customer for 3 years. Please help.",Billing,High
+"Hi there, I cancelled within the 30-day trial but was charged anyway. Please refund. I already tried the FAQ. Thank you.",Refund Request,Medium
+"Hi there, Someone else is logged into my account. I think I've been hacked. I already tried the FAQ. Thank you.",Account Access,High
+"Hello, Cannot connect to the API. Getting timeout errors on every single request. This is my second time contacting support. Please help.",Technical Issue,High
+"Hello, How is my data backed up and how often? I already tried the FAQ. This is very important to me.",General Inquiry,Medium
+"Dear support, My account has been suspended without any reason or prior notice. I have been a customer for 3 years. Please help.",Account Access,High
+"Hello, The service was down for 3 days and I want compensation for the downtime I experienced. I already tried the FAQ. This is very important to me.",Refund Request,High
+My application keeps crashing every time I try to open it. I've reinstalled it three times.,Technical Issue,High
+"Hi there, What are your customer support hours and how can I reach a live agent? Urgent!",General Inquiry,Low
+"Dear support, Is there an API available for custom integrations with our internal tools? I have been a customer for 3 years.",General Inquiry,Low
+My invoice shows tax charges I don't think I should be paying. Can you explain?,Billing,Medium
+"Hi there, Is your service GDPR and HIPAA compliant? I already tried the FAQ. Looking forward to your response.",General Inquiry,Low
+"Hello, My invoice shows tax charges I don't think I should be paying. Can you explain? I have been a customer for 3 years. Please help.",Billing,Medium
+"Hi there, I need to update the email address on my account to a new one. I have been a customer for 3 years. Urgent!",Account Access,Medium
+"Dear support, I want to upgrade my plan. Can you tell me what the pricing options are? Thank you.",Billing,Medium
+"Dear support, Some images are not loading on the product page. The layout looks broken. Urgent!",Technical Issue,Medium
+"Good morning, The loading spinner disappears too quickly before content finishes loading. I have been a customer for 3 years. Urgent!",Technical Issue,Low
+All my saved data has disappeared after I logged in today. Everything is gone.,Account Access,High
+"Dear support, What is your refund policy for annual subscriptions? Urgent!",Refund Request,Low
+"Dear support, The service was down for 3 days and I want compensation for the downtime I experienced. I already tried the FAQ. This is very important to me.",Refund Request,High
+"Good morning, What are the differences between the Basic, Pro, and Enterprise plans? I already tried the FAQ. This is very important to me.",General Inquiry,Low
+"Dear support, I'm getting a 500 internal server error on every page. Nothing loads at all. I already tried the FAQ. Please help.",Technical Issue,High
+"To whom it may concern, What uptime SLA do you guarantee for enterprise customers? I already tried the FAQ. Please help.",General Inquiry,Medium
+I was charged for an annual plan by mistake and need a full refund right away.,Refund Request,High
+"Good morning, What are your customer support hours and how can I reach a live agent? Urgent!",General Inquiry,Low
+"Dear support, Cannot connect to the API. Getting timeout errors on every single request. I already tried the FAQ. Looking forward to your response.",Technical Issue,High
+The features promised at signup are not available. I want a partial refund.,Refund Request,Medium
+"Hello, My application keeps crashing every time I try to open it. I've reinstalled it three times. I have been a customer for 3 years. This is very important to me.",Technical Issue,High
+"Hello, Can I switch from monthly to annual billing to save money? I have been a customer for 3 years.",Billing,Low
+The system is extremely slow today. Every action takes several minutes. I have been a customer for 3 years. This is very important to me.,Technical Issue,Medium
+I accidentally purchased the wrong plan and need the difference refunded urgently.,Refund Request,High
+"Hi there, I want to change my username but the option seems greyed out in settings. I already tried the FAQ. Thank you.",Account Access,Medium
+I requested a refund two weeks ago and still haven't received it. What is happening?,Refund Request,High
+Is your service GDPR and HIPAA compliant?,General Inquiry,Low
+Someone else is logged into my account. I think I've been hacked. I already tried the FAQ. Looking forward to your response.,Account Access,High
+"Dear support, The loading spinner disappears too quickly before content finishes loading. This is my second time contacting support. Looking forward to your response.",Technical Issue,Low
+Someone else is logged into my account. I think I've been hacked.,Account Access,High
+"Hello, What payment methods do you accept? Does the platform support PayPal? I have been a customer for 3 years.",Billing,Low
+How is my data backed up and how often?,General Inquiry,Medium
+"To whom it may concern, The website is down and I cannot access any of my data. This is urgent for my business. I have been a customer for 3 years. This is very important to me.",Technical Issue,High
+I was charged twice for the same subscription this month. Please refund immediately.,Billing,High
+Do you offer a free trial before I commit to a paid plan? Thank you.,General Inquiry,Low
+"Hi there, The loading spinner disappears too quickly before content finishes loading. I have been a customer for 3 years.",Technical Issue,Low
+The search feature is returning wrong results. It shows unrelated items. Thank you.,Technical Issue,Medium
+"To whom it may concern, Do you offer a free trial before I commit to a paid plan? I have been a customer for 3 years. Looking forward to your response.",General Inquiry,Low
+"Good morning, I forgot my email address associated with the account. How do I recover it? This is my second time contacting support.",Account Access,Medium
+The search feature is returning wrong results. It shows unrelated items.,Technical Issue,Medium
+"Good morning, Can I switch from monthly to annual billing to save money? I have been a customer for 3 years. Please help.",Billing,Low
+Do you have a mobile app for Android and iOS?,General Inquiry,Low
+"Good morning, I requested a refund two weeks ago and still haven't received it. What is happening? This is my second time contacting support. Looking forward to your response.",Refund Request,High
+"To whom it may concern, All my saved data has disappeared after I logged in today. Everything is gone. This is my second time contacting support. Urgent!",Account Access,High
+"Hi there, The mobile app crashes immediately on launch on iOS 17. Other apps work fine. I have been a customer for 3 years. Please help.",Technical Issue,High
+Do you offer a free trial before I commit to a paid plan?,General Inquiry,Low
+When does my current billing cycle end? I can't find this info in my dashboard.,Billing,Low
+"To whom it may concern, I cancelled my plan but was still billed for the next cycle. This is unacceptable. This is my second time contacting support.",Billing,High
+"Good morning, The service was down for 3 days and I want compensation for the downtime I experienced. Urgent!",Refund Request,High
+I accidentally purchased the wrong plan and need the difference refunded urgently. This is my second time contacting support. This is very important to me.,Refund Request,High
+"Hello, Some images are not loading on the product page. The layout looks broken. I already tried the FAQ. Looking forward to your response.",Technical Issue,Medium
+"Dear support, What are the differences between the Basic, Pro, and Enterprise plans? I have been a customer for 3 years.",General Inquiry,Low
+How is my data backed up and how often? I already tried the FAQ.,General Inquiry,Medium
+"Dear support, Is your service GDPR and HIPAA compliant? This is my second time contacting support. Looking forward to your response.",General Inquiry,Low
+"To whom it may concern, I want a full refund immediately. The product is completely unusable for my needs. This is my second time contacting support. Urgent!",Refund Request,High
+"Good morning, I'm getting a 500 internal server error on every page. Nothing loads at all. I have been a customer for 3 years. Please help.",Technical Issue,High
+Dark mode toggle does not save my preference. Resets every time I reload. I already tried the FAQ.,Technical Issue,Medium
+My payment failed but money was deducted from my account. Please investigate. Thank you.,Billing,High
+"To whom it may concern, Do you offer a free trial before I commit to a paid plan? I have been a customer for 3 years. Please help.",General Inquiry,Low
+"To whom it may concern, The features promised at signup are not available. I want a partial refund. I have been a customer for 3 years. Looking forward to your response.",Refund Request,Medium
+"To whom it may concern, Is there an API available for custom integrations with our internal tools? I have been a customer for 3 years. Urgent!",General Inquiry,Low
+"Hello, I was charged for an annual plan by mistake and need a full refund right away. Please help.",Refund Request,High
+"Hello, I want to change my username but the option seems greyed out in settings. I have been a customer for 3 years. Urgent!",Account Access,Medium
+The search feature is returning wrong results. It shows unrelated items. Looking forward to your response.,Technical Issue,Medium
+"To whom it may concern, I requested a refund two weeks ago and still haven't received it. What is happening? I already tried the FAQ. Looking forward to your response.",Refund Request,High
+Two-factor authentication is not sending codes to my phone. I cannot log in.,Account Access,High
+How do I change the language preference on my account?,Account Access,Low
+I cancelled within the 30-day trial but was charged anyway. Please refund.,Refund Request,Medium
+We are a school. Do you offer any educational institution discounts?,General Inquiry,Low
+"Hi there, My application keeps crashing every time I try to open it. I've reinstalled it three times. This is my second time contacting support.",Technical Issue,High
+I need a copy of all my invoices from last year for accounting purposes.,Billing,Medium
+The notification emails have a broken image at the top. Minor but looks unprofessional. This is my second time contacting support.,Technical Issue,Low
+My application keeps crashing every time I try to open it. I've reinstalled it three times. I have been a customer for 3 years. Please help.,Technical Issue,High
+"Dear support, Dark mode toggle does not save my preference. Resets every time I reload. I already tried the FAQ. Thank you.",Technical Issue,Medium
+I cancelled my plan but was still billed for the next cycle. This is unacceptable.,Billing,High
+The service was down for 3 days and I want compensation for the downtime I experienced.,Refund Request,High
+The system is extremely slow today. Every action takes several minutes. This is my second time contacting support. Thank you.,Technical Issue,Medium
+"Dear support, Is your service GDPR and HIPAA compliant? I have been a customer for 3 years. Looking forward to your response.",General Inquiry,Low
+My payment failed but money was deducted from my account. Please investigate. I have been a customer for 3 years. Thank you.,Billing,High
+"Hello, The notification emails have a broken image at the top. Minor but looks unprofessional. I have been a customer for 3 years. Thank you.",Technical Issue,Low
+"Good morning, Is your service GDPR and HIPAA compliant?",General Inquiry,Low
+"Dear support, What is your refund policy for annual subscriptions? This is my second time contacting support.",Refund Request,Low
+"Good morning, I'm getting a 500 internal server error on every page. Nothing loads at all. This is my second time contacting support. Thank you.",Technical Issue,High
+"To whom it may concern, I am being charged the wrong amount. The price on my invoice doesn't match what was advertised. This is my second time contacting support. This is very important to me.",Billing,High
+"Hello, How do I enable two-factor authentication on my account for better security? I have been a customer for 3 years. Please help.",Account Access,Medium
+"Dear support, How is my data backed up and how often? I already tried the FAQ. Please help.",General Inquiry,Medium
+"To whom it may concern, I am locked out of my account and cannot reset my password. The email never arrives. I already tried the FAQ. Urgent!",Account Access,High
+We are a school. Do you offer any educational institution discounts? Looking forward to your response.,General Inquiry,Low
+"Hi there, What is your refund policy for annual subscriptions? I already tried the FAQ. This is very important to me.",Refund Request,Low
+"Dear support, The notification emails have a broken image at the top. Minor but looks unprofessional. I have been a customer for 3 years. Looking forward to your response.",Technical Issue,Low
+The notification emails have a broken image at the top. Minor but looks unprofessional.,Technical Issue,Low
+"Hello, I need to update the email address on my account to a new one. I already tried the FAQ. This is very important to me.",Account Access,Medium
+"Good morning, I'd like to download a copy of all my account data as required by GDPR. I already tried the FAQ.",Account Access,Low
+"Dear support, What uptime SLA do you guarantee for enterprise customers? I already tried the FAQ.",General Inquiry,Medium
+"Hello, I'd like to download a copy of all my account data as required by GDPR. This is my second time contacting support. Looking forward to your response.",Account Access,Low
+"To whom it may concern, How do I enable two-factor authentication on my account for better security? This is my second time contacting support. Looking forward to your response.",Account Access,Medium
+There is a small typo on the settings page under the 'Privacy' section. I have been a customer for 3 years.,Technical Issue,Low
+"To whom it may concern, Dark mode toggle does not save my preference. Resets every time I reload. This is very important to me.",Technical Issue,Medium
+How long does the refund process usually take once approved?,Refund Request,Low
+"Hi there, Does your platform integrate with Slack and Microsoft Teams? This is my second time contacting support. Please help.",General Inquiry,Low
+"To whom it may concern, The mobile app crashes immediately on launch on iOS 17. Other apps work fine. I already tried the FAQ.",Technical Issue,High
+I want to change my username but the option seems greyed out in settings.,Account Access,Medium
+"Dear support, Is there an API available for custom integrations with our internal tools? I already tried the FAQ. Please help.",General Inquiry,Low
+"To whom it may concern, How do I change the language preference on my account?",Account Access,Low
+"Dear support, Can I export my data to CSV or Excel format? I have been a customer for 3 years. This is very important to me.",General Inquiry,Low
+"To whom it may concern, Two-factor authentication is not sending codes to my phone. I cannot log in. I already tried the FAQ.",Account Access,High
+I am locked out of my account and cannot reset my password. The email never arrives.,Account Access,High
+"Hello, All my saved data has disappeared after I logged in today. Everything is gone. This is my second time contacting support. Urgent!",Account Access,High
+"Hello, I want to upgrade my plan. Can you tell me what the pricing options are? I have been a customer for 3 years.",Billing,Medium
+"Good morning, I am being charged the wrong amount. The price on my invoice doesn't match what was advertised. I have been a customer for 3 years. This is very important to me.",Billing,High
+"To whom it may concern, I accidentally purchased the wrong plan and need the difference refunded urgently. I have been a customer for 3 years. Urgent!",Refund Request,High
+"Hi there, Can I switch from monthly to annual billing to save money? I already tried the FAQ. Thank you.",Billing,Low
+"Dear support, What uptime SLA do you guarantee for enterprise customers? This is my second time contacting support. Looking forward to your response.",General Inquiry,Medium
+The mobile app crashes immediately on launch on iOS 17. Other apps work fine.,Technical Issue,High
+"Good morning, I'd like to download a copy of all my account data as required by GDPR. I already tried the FAQ. Please help.",Account Access,Low
+"Hello, I was charged twice for the same subscription this month. Please refund immediately. I already tried the FAQ. Urgent!",Billing,High
+"Hi there, I need a copy of all my invoices from last year for accounting purposes. This is my second time contacting support. Thank you.",Billing,Medium
+What are your customer support hours and how can I reach a live agent?,General Inquiry,Low
+"Dear support, My invoice shows tax charges I don't think I should be paying. Can you explain?",Billing,Medium
