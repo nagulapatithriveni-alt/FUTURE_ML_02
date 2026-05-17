@@ -28,7 +28,7 @@ Billing
 Accuracy achieved: 1.0
 
 ## Output Graph
-![Ticket Classification Graph](https://raw.githubusercontent.com/nagulapatithriveni-alt/FUTURE_ML_02/main/ticket_classification_graph.png)
+![Output Graph](https://raw.githubusercontent.com/nagulapatithriveni-alt/FUTURE_ML_02/main/ticket_classification.graph.png)
 
 ## Conclusion
 Successfully built an NLP-based ticket classification model that can automatically categorize customer support tickets with high accuracy.
