@@ -183,13 +183,12 @@ jupyter notebook notebooks/analysis.ipynb
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 
-**Your Name**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-
+**Thriveni Nagulapati**
+- 🔗 LinkedIn: https://www.linkedin.com/in/thriveni-nagulapati-838405285
+- 🐙 GitHub: https://github.com/nagulapatithriveni-alt
+- 📧 Email: nagulapatithriveni@gmail.com
 ---
 
 ## 📄 License
